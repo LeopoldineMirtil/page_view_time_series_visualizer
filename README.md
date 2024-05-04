@@ -6,6 +6,6 @@ The aim of the project is to visualize the time series datset with a line plot, 
 
 
 ### Data Source 
-File name: "fcc-forum-pageviews.csv"
+File name: fcc-forum-pageviews.csv
 
 The dataset used in this project is from freeCodeCamp.org. The dataset contains the number of page views each day from the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03
